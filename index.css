@@ -1,0 +1,23 @@
+html{
+    background-color: antiquewhite;
+    height: 100%;
+}
+h1{
+    width:max-content;
+}
+
+section{
+margin-bottom: 2rem;    
+}
+
+#tofu{
+    box-sizing: content-box;
+    padding: 2em;
+    border: 12px solid black;
+    height: auto;
+}
+
+.google-map{
+    width: 100%;
+    height: 80%;
+}
